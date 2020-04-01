@@ -4,6 +4,7 @@
   "scripts": {
     "build": "bsb -make-world",
     "start": "bsb -make-world -w",
+    "next":"next",
     "clean": "bsb -clean-world"
   },
   "keywords": [
@@ -19,6 +20,7 @@
     "@fullhuman/postcss-purgecss": "^2.1.0",
     "autoprefixer": "^9.7.4",
     "lodash.camelcase": "^4.3.0",
+    "next": "^9.3.4",
     "postcss-import": "^12.0.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
